@@ -18,7 +18,7 @@ RUN \
 	make \
 	openjpeg-dev \
 	openssl-dev \
-	python2-dev \
+	python3-dev \
 	tiff-dev \
 	zlib-dev && \
 
@@ -33,9 +33,9 @@ RUN \
 	openjpeg \
 	openssl \
 	p7zip \
-	py2-lxml \
-	py2-pip \
-	python2 \
+	py3-lxml \
+	py3-pip \
+	python3 \
 	tar \
 	tiff \
 	unrar \
