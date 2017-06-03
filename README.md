@@ -1,6 +1,4 @@
-[![Docker Stars](https://img.shields.io/docker/stars/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/)
-[![](https://images.microbadger.com/badges/image/stibbons31/alpine-s6-python3.svg)](http://microbadger.com/images/stibbons31/alpine-s6-python3 "Get your own image badge on microbadger.com")
+[![Docker Stars](https://img.shields.io/docker/stars/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/) [![Docker Pulls](https://img.shields.io/docker/pulls/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/)
 
 # Alpine S6 Python 3
 
