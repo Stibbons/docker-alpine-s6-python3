@@ -1,6 +1,6 @@
-[![Docker Stars](https://img.shields.io/docker/stars/Stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/Stibbons31/alpine-s6-python3/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/Stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/Stibbons31/alpine-s6-python3/)
-[![](https://images.microbadger.com/badges/image/Stibbons31/alpine-s6-python3.svg)](http://microbadger.com/images/Stibbons31/alpine-s6-python3 "Get your own image badge on microbadger.com")
+[![Docker Stars](https://img.shields.io/docker/stars/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/stibbons31/alpine-s6-python3.svg?style=flat-square)](https://hub.docker.com/r/stibbons31/alpine-s6-python3/)
+[![](https://images.microbadger.com/badges/image/stibbons31/alpine-s6-python3.svg)](http://microbadger.com/images/stibbons31/alpine-s6-python3 "Get your own image badge on microbadger.com")
 
 # Alpine S6 Python 3
 
@@ -13,7 +13,7 @@ This image is based on [LinuxServer.io](https://www.linuxserver.io/) Alpine Pyth
 # Usage Example
 
 ```bash
-$ docker run --rm Stibbons31/alpine-s6-python3 python3 -c 'print("Hello World")'
+$ docker run --rm stibbons31/alpine-s6-python3 python3 -c 'print("Hello World")'
 ```
 
 Once you have run this command you will get printed 'Hello World' from Python!
