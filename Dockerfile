@@ -54,6 +54,10 @@ RUN \
     fi && \
     rm -r /root/.cache && \
 
+    if [ ! -e /usr/bin/python ]; then \
+        ln -s python3 /usr/bin/python ; \
+    fi && \
+
 # add pip packages
  pip install --no-cache-dir -U \
     pip && \

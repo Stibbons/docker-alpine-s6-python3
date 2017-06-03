@@ -16,4 +16,6 @@ $ docker run --rm stibbons31/alpine-s6-python3 python3 -c 'print("Hello World")'
 
 Once you have run this command you will get printed 'Hello World' from Python!
 
-NOTE: `pip`/`pip3` is also available in this image.
+NOTE:
+- `pip`/`pip3` are also available in this image.
+- `python`/`python3` are also available in this image.
